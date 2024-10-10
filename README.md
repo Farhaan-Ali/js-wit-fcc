@@ -16,7 +16,7 @@ _Palindrome Checker,
 Roman Numeral Converter, 
 Telephone Number Validator, 
 Cash Register, 
-Pokémon Search App, _
+Pokémon Search App_
 
 
 **💻 Tech Stack**
